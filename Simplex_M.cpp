@@ -1,4 +1,13 @@
-// Simplex_M.cpp//simplex
+// Simplex_M.cpp
+/*
+*
+* Solving Simplex By Using M Method
+* =============PROJECT============
+* Copyright (c) vali ahmad rahmani
+* Date Jun,13,2021
+* name Simplex_M
+*
+*/
 #include <iostream>
 #include <Windows.h>
 #include <stdio.h>
